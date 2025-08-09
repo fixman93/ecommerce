@@ -59,7 +59,6 @@
 		"client": "react-scripts --openssl-legacy-provider start",
 		"build": "react-scripts --openssl-legacy-provider build",
 		"test": "react-scripts eject",
-		"vercel-build": "npm install --legacy-peer-deps && next build",
 		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
